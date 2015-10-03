@@ -17,7 +17,7 @@ for i in range(1, 13):
 
 
 total = 0  # total is our running total
-next = -1  # Set next to -1 to stop the test beow finishing immediately
+next = -1  # Set next to -1 to stop the test below finishing immediately
 
 # loop until the user's last input was 0
 while next != 0:
